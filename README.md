@@ -2,6 +2,10 @@
 
 UX/UI case study for a mobile mini-game inspired by Blackjack, built around number-guessing, monetization, and a simple but engaging casino-style flow.
 
+## Scope
+
+This is a Figma interface concept with screen exports, not an implemented or released game. Purchase screens are visual proposals; there is no payment integration or measured business result.
+
 ## Overview
 
 This project explores the interface design for a mobile casual game that borrows the emotional feel of Blackjack without relying on classic card rules. The goal was to make the game accessible to a wide audience, including players who are not familiar with traditional card games.
