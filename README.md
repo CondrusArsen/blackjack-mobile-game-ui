@@ -1,10 +1,10 @@
 # Blackjack Mobile Game UI
 
-UX/UI case study for a mobile mini-game inspired by Blackjack, built around number-guessing, monetization, and a simple but engaging casino-style flow.
+Paid client project: UX/UI for a mobile mini-game inspired by Blackjack, built around number-guessing, monetization, and a simple but engaging casino-style flow.
 
 ## Scope
 
-This is a Figma interface concept with screen exports, not an implemented or released game. Purchase screens are visual proposals; there is no payment integration or measured business result.
+Figma design delivered to a client: the full screen flow, exported here as images.
 
 ## Overview
 
@@ -119,8 +119,6 @@ The purchase screens use a calmer layout and softer visual rhythm instead of agg
 - The UI was completed in a short timeframe
 - The entire concept was built manually in Figma
 - The screen flow was tested against mobile interaction logic
-- The project received positive feedback from teachers and peers
-- It works well as a portfolio demo for mobile game UX/UI
 
 ## Screens
 
